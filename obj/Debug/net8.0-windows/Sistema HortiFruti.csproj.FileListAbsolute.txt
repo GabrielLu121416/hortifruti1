@@ -1,0 +1,18 @@
+C:\Users\o\source\repos\Sistema HortiFruti\bin\Debug\net8.0-windows\Sistema HortiFruti.exe
+C:\Users\o\source\repos\Sistema HortiFruti\bin\Debug\net8.0-windows\Sistema HortiFruti.deps.json
+C:\Users\o\source\repos\Sistema HortiFruti\bin\Debug\net8.0-windows\Sistema HortiFruti.runtimeconfig.json
+C:\Users\o\source\repos\Sistema HortiFruti\bin\Debug\net8.0-windows\Sistema HortiFruti.dll
+C:\Users\o\source\repos\Sistema HortiFruti\bin\Debug\net8.0-windows\Sistema HortiFruti.pdb
+C:\Users\o\source\repos\Sistema HortiFruti\obj\Debug\net8.0-windows\Sistema_HortiFruti.Form1.resources
+C:\Users\o\source\repos\Sistema HortiFruti\obj\Debug\net8.0-windows\Sistema HortiFruti.csproj.GenerateResource.cache
+C:\Users\o\source\repos\Sistema HortiFruti\obj\Debug\net8.0-windows\Sistema HortiFruti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o\source\repos\Sistema HortiFruti\obj\Debug\net8.0-windows\Sistema HortiFruti.AssemblyInfoInputs.cache
+C:\Users\o\source\repos\Sistema HortiFruti\obj\Debug\net8.0-windows\Sistema HortiFruti.AssemblyInfo.cs
+C:\Users\o\source\repos\Sistema HortiFruti\obj\Debug\net8.0-windows\Sistema HortiFruti.csproj.CoreCompileInputs.cache
+C:\Users\o\source\repos\Sistema HortiFruti\obj\Debug\net8.0-windows\Sistema HortiFruti.sourcelink.json
+C:\Users\o\source\repos\Sistema HortiFruti\obj\Debug\net8.0-windows\Sistema HortiFruti.dll
+C:\Users\o\source\repos\Sistema HortiFruti\obj\Debug\net8.0-windows\refint\Sistema HortiFruti.dll
+C:\Users\o\source\repos\Sistema HortiFruti\obj\Debug\net8.0-windows\Sistema HortiFruti.pdb
+C:\Users\o\source\repos\Sistema HortiFruti\obj\Debug\net8.0-windows\Sistema HortiFruti.genruntimeconfig.cache
+C:\Users\o\source\repos\Sistema HortiFruti\obj\Debug\net8.0-windows\ref\Sistema HortiFruti.dll
+C:\Users\o\source\repos\Sistema HortiFruti\obj\Debug\net8.0-windows\Sistema_HortiFruti.Properties.Resources.resources
